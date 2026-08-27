@@ -18,5 +18,15 @@
     "notes": "Generated via admin tool",
     "issued_at": "2026-08-27 17:57:08",
     "status": "Active"
+  },
+  {
+    "user_id": "abhishek.p",
+    "hardware_id": "HW-57DF0026",
+    "license_key": "SCAR-ABHISHEK-HW57DF00-6A904EE4-76DF9565FE947261",
+    "expiry_date": "2026-08-27 20:21:16",
+    "department": "General",
+    "notes": "Generated via admin tool",
+    "issued_at": "2026-08-27 18:21:16",
+    "status": "Active"
   }
 ]
