@@ -12,6 +12,19 @@
     "reinstated_at": "2026-08-26 12:13:09"
   },
   {
+    "user_id": "satyajit_pawar",
+    "hardware_id": "HW-E09F1551",
+    "license_key": "SCAR-SATYAJIT-HWE09F15-6A915622-C6FA11447C0F20D7",
+    "expiry_date": "2026-08-28 15:04:26",
+    "department": "General",
+    "notes": "Generated via admin tool",
+    "issued_at": "2026-08-26 13:49:43",
+    "status": "Deleted",
+    "reinstated_at": "2026-08-27 16:45:05",
+    "updated_at": "2026-08-27 15:04:26",
+    "deleted_at": "2026-08-27 16:46:07"
+  },
+  {
     "user_id": "admin",
     "hardware_id": "HW-B6E67028",
     "license_key": "SCAR-ADMIN-HWB6E670-6A914718-2F5396AC756E3EBB",
@@ -36,14 +49,13 @@
   {
     "user_id": "satyajit_pawar",
     "hardware_id": "HW-D70ED424",
-    "license_key": "SCAR-SATYAJIT-HWD70ED4-6A9039BC-98F74F6CD16E0123",
-    "expiry_date": "2026-08-27 18:51:00",
+    "license_key": "SCAR-SATYAJIT-HWD70ED4-6A903C80-3D516241A69FB4F9",
+    "expiry_date": "2026-08-27 19:02:48",
     "department": "General",
     "notes": "Generated via admin tool",
     "issued_at": "2026-08-27 16:37:01",
-    "status": "Deleted",
+    "status": "Active",
     "reinstated_at": "2026-08-27 16:45:05",
-    "updated_at": "2026-08-27 16:51:00",
-    "deleted_at": "2026-08-27 16:56:50"
+    "updated_at": "2026-08-27 17:02:48"
   }
 ]
