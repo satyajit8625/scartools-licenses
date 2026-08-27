@@ -19,10 +19,10 @@
     "department": "General",
     "notes": "Generated via admin tool",
     "issued_at": "2026-08-26 13:49:43",
-    "status": "Active",
+    "status": "Deleted",
     "reinstated_at": "2026-08-27 16:45:05",
     "updated_at": "2026-08-27 15:04:26",
-    "deleted_at": "2026-08-27 16:43:12"
+    "deleted_at": "2026-08-27 16:46:07"
   },
   {
     "user_id": "admin",
@@ -54,8 +54,8 @@
     "department": "General",
     "notes": "Generated via admin tool",
     "issued_at": "2026-08-27 16:37:01",
-    "status": "Active",
-    "deleted_at": "2026-08-27 16:43:12",
+    "status": "Deleted",
+    "deleted_at": "2026-08-27 16:46:07",
     "reinstated_at": "2026-08-27 16:45:05"
   }
 ]
