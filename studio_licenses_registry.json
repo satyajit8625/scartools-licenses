@@ -18,15 +18,5 @@
     "notes": "Generated via admin tool",
     "issued_at": "2026-08-27 17:57:08",
     "status": "Active"
-  },
-  {
-    "user_id": "dilip.verma",
-    "hardware_id": "HW-FA9000FA",
-    "license_key": "SCAR-DILIPVER-HWFA9000-6A904A51-F79002B2558847C3",
-    "expiry_date": "2026-08-27 20:01:45",
-    "department": "General",
-    "notes": "Generated via admin tool",
-    "issued_at": "2026-08-27 18:01:45",
-    "status": "Active"
   }
 ]
