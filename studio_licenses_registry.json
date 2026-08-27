@@ -8,16 +8,5 @@
     "notes": "Generated via admin tool",
     "issued_at": "2026-08-26 12:08:46",
     "status": "Active"
-  },
-  {
-    "user_id": "satyajit_pawar",
-    "hardware_id": "HW-D70ED424",
-    "license_key": "SCAR-SATYAJIT-HWD70ED4-6A90406F-8ACD632A7B7DE982",
-    "expiry_date": "2026-08-27 19:19:35",
-    "department": "General",
-    "notes": "Generated via admin tool",
-    "issued_at": "2026-08-27 16:37:01",
-    "status": "Active",
-    "updated_at": "2026-08-27 17:19:35"
   }
 ]
