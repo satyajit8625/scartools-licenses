@@ -49,13 +49,13 @@
   {
     "user_id": "satyajit_pawar",
     "hardware_id": "HW-D70ED424",
-    "license_key": "SCAR-SATYAJIT-HWD70ED4-00000000-076F1736BBF12743",
-    "expiry_date": "Perpetual (No Expiry)",
+    "license_key": "SCAR-SATYAJIT-HWD70ED4-6A9039BC-98F74F6CD16E0123",
+    "expiry_date": "2026-08-27 18:51:00",
     "department": "General",
     "notes": "Generated via admin tool",
     "issued_at": "2026-08-27 16:37:01",
-    "status": "Deleted",
-    "deleted_at": "2026-08-27 16:46:07",
-    "reinstated_at": "2026-08-27 16:45:05"
+    "status": "Active",
+    "reinstated_at": "2026-08-27 16:45:05",
+    "updated_at": "2026-08-27 16:51:00"
   }
 ]
