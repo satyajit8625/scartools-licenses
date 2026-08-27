@@ -7,31 +7,7 @@
     "department": "General",
     "notes": "Generated via admin tool",
     "issued_at": "2026-08-26 12:08:46",
-    "status": "Revoked",
-    "revoked_at": "2026-08-27 11:03:41",
-    "reinstated_at": "2026-08-26 12:13:09"
-  },
-  {
-    "user_id": "admin",
-    "hardware_id": "HW-B6E67028",
-    "license_key": "SCAR-ADMIN-HWB6E670-6A914718-2F5396AC756E3EBB",
-    "expiry_date": "2026-08-28 14:00:16",
-    "department": "General",
-    "notes": "Generated via admin tool",
-    "issued_at": "2026-08-27 14:00:16",
-    "status": "Deleted",
-    "deleted_at": "2026-08-27 14:01:45"
-  },
-  {
-    "user_id": "cinematic",
-    "hardware_id": "HW-ABB9D785",
-    "license_key": "SCAR-CINEMATI-HWABB9D7-6A914EE3-4080114D04FA6D0E",
-    "expiry_date": "2026-08-28 14:33:31",
-    "department": "General",
-    "notes": "Generated via admin tool",
-    "issued_at": "2026-08-27 14:33:31",
-    "status": "Deleted",
-    "deleted_at": "2026-08-27 15:00:09"
+    "status": "Active"
   },
   {
     "user_id": "satyajit_pawar",
@@ -41,9 +17,7 @@
     "department": "General",
     "notes": "Generated via admin tool",
     "issued_at": "2026-08-27 16:37:01",
-    "status": "Deleted",
-    "reinstated_at": "2026-08-27 16:45:05",
-    "updated_at": "2026-08-27 17:02:48",
-    "deleted_at": "2026-08-27 17:10:45"
+    "status": "Active",
+    "updated_at": "2026-08-27 17:02:48"
   }
 ]
