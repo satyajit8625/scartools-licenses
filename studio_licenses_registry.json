@@ -22,7 +22,7 @@
     "status": "Deleted",
     "reinstated_at": "2026-08-27 11:22:59",
     "updated_at": "2026-08-27 15:04:26",
-    "deleted_at": "2026-08-27 15:05:10"
+    "deleted_at": "2026-08-27 16:43:12"
   },
   {
     "user_id": "admin",
@@ -45,5 +45,16 @@
     "issued_at": "2026-08-27 14:33:31",
     "status": "Deleted",
     "deleted_at": "2026-08-27 15:00:09"
+  },
+  {
+    "user_id": "satyajit_pawar",
+    "hardware_id": "HW-D70ED424",
+    "license_key": "SCAR-SATYAJIT-HWD70ED4-00000000-076F1736BBF12743",
+    "expiry_date": "Perpetual (No Expiry)",
+    "department": "General",
+    "notes": "Generated via admin tool",
+    "issued_at": "2026-08-27 16:37:01",
+    "status": "Deleted",
+    "deleted_at": "2026-08-27 16:43:12"
   }
 ]
