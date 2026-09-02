@@ -1,15 +1,5 @@
 [
   {
-    "user_id": "satyajit_pawar",
-    "hardware_id": "HW-D70ED424",
-    "license_key": "SCAR-SATYAJIT-HWD70ED4-6ABFA274-D4F5588B396538FB",
-    "expiry_date": "2026-10-02 17:54:20",
-    "department": "General",
-    "notes": "Generated via admin tool (30d)",
-    "issued_at": "2026-09-02 17:54:20",
-    "status": "Active"
-  },
-  {
     "user_id": "john.doe",
     "hardware_id": "HW-E09F1551",
     "license_key": "SCAR-JOHNDOE-HWE09F15-00000000-D798911CEA6B5AE4",
