@@ -1,5 +1,15 @@
 [
   {
+    "user_id": "satyajit_pawar",
+    "hardware_id": "HW-D70ED424",
+    "license_key": "SCAR-SATYAJIT-HWD70ED4-6ABFA274-D4F5588B396538FB",
+    "expiry_date": "2026-10-02 17:54:20",
+    "department": "General",
+    "notes": "Generated via admin tool (30d)",
+    "issued_at": "2026-09-02 17:54:20",
+    "status": "Active"
+  },
+  {
     "user_id": "john.doe",
     "hardware_id": "HW-E09F1551",
     "license_key": "SCAR-JOHNDOE-HWE09F15-00000000-D798911CEA6B5AE4",
@@ -7,27 +17,6 @@
     "department": "General",
     "notes": "Generated via admin tool",
     "issued_at": "2026-08-26 12:08:46",
-    "status": "Active"
-  },
-  {
-    "user_id": "satyajit_pawar",
-    "hardware_id": "HW-D70ED424",
-    "license_key": "SCAR-SATYAJIT-HWD70ED4-6A97A94E-A44CBB1A4565821E",
-    "expiry_date": "2026-09-02 10:12:54",
-    "department": "General",
-    "notes": "Generated via admin tool",
-    "issued_at": "2026-08-27 17:57:08",
-    "status": "Active",
-    "updated_at": "2026-08-31 10:12:54"
-  },
-  {
-    "user_id": "cinematic",
-    "hardware_id": "HW-136AA530",
-    "license_key": "SCAR-CINEMATI-HW136AA5-6A92B823-E6B52D09246E796B",
-    "expiry_date": "2026-08-29 16:14:51",
-    "department": "General",
-    "notes": "Generated via admin tool",
-    "issued_at": "2026-08-29 15:44:51",
     "status": "Active"
   }
 ]
