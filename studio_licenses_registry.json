@@ -19,5 +19,15 @@
     "issued_at": "2026-09-02 18:14:32",
     "status": "Active",
     "updated_at": "2026-09-11 10:39:58"
+  },
+  {
+    "user_id": "dilip.verma",
+    "hardware_id": "HW-594694D2",
+    "license_key": "SCAR-DILIPVER-HW594694-6AA3E1FE-416EFDBCF078B1A5",
+    "expiry_date": "2026-09-11 16:41:58",
+    "department": "General",
+    "notes": "Generated via admin tool",
+    "issued_at": "2026-09-11 10:41:58",
+    "status": "Active"
   }
 ]
